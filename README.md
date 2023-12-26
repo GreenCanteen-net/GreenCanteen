@@ -1,5 +1,3 @@
-# Welcome
-
 ... tasty plant-based delights 😋
 
 ![Tasty](Dino.jpg)
