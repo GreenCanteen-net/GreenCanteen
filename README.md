@@ -2,7 +2,7 @@
 
 ... tasty plant-based delights 😋
 
-![Tasty|350](Dino.jpg)
+![Tasty](Dino.jpg)
 
 #### quick bites
 - [Lazy Lentil Salad](Lazy_Lentil_Salad.md) ⏱️ 🌿 
