@@ -1,4 +1,4 @@
 # Welcome
 
-[Shihbuya Salad](<Shibuya Salad.md>)
-![Dino](Dino.jpg)
+[Shihbuya Salad](<ShibuyaSalad.md>)
+![Dino|350](Dino.jpg)
