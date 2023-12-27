@@ -19,5 +19,6 @@ Quelle: Lotti
 
 #### Zubereitung
 - Blumenohl kochen
-- Zutaten in Misvhbecher mische, pürieren
+- Zutaten in Mischbecher mische, pürieren
 - Abschmecken
+
