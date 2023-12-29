@@ -1,3 +1,5 @@
+# Linsen und Auberginen Eintopf
+
 ---
 Type: Rezept
 Tag: Rezept
