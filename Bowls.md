@@ -1,9 +1,6 @@
 # Bowls
 
----
-Type: Rezept
-Tag: Rezept
----
+
 
 #### Allgemein
 Quelle: Anna Jones - A modern way to cook
@@ -11,6 +8,7 @@ Quelle: Anna Jones - A modern way to cook
 
 
 #### Zutaten
+
 | Basis        | 2-4 Gemüse                       | Aromakick                        | Dressing       | Kräuter              | Extra               |
 | ------------ | -------------------------------- | -------------------------------- | -------------- | -------------------- | ------------------- |
 | Reis         | Randen-Scheiben                  | gebratene Zweieblen              | Miso           | Petersilie           | geröstete Nüsse     |
