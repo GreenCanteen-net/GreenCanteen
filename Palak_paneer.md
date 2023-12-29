@@ -1,3 +1,5 @@
+# Palak Paneer
+
 ---
 Type: Rezept
 Tag: Rezept
