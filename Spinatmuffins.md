@@ -1,3 +1,5 @@
+# Spinatmuffins
+
 ---
 Type: Rezept
 Tag: Rezept
