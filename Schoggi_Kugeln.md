@@ -1,3 +1,5 @@
+# Schoggi Kugeln
+
 ---
 Type: Rezept
 Tag: Rezept
