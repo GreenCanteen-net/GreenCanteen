@@ -1,3 +1,5 @@
+# No recipe curry
+
 ---
 Type: Rezept
 Tag: Rezept
