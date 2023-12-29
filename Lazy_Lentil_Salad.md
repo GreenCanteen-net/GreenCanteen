@@ -1,3 +1,5 @@
+# Lazy Lentil Salad
+
 ---
 Type: Rezept
 Tag: Rezept
