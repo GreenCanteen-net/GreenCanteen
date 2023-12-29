@@ -1,3 +1,5 @@
+# Vegan Gulasch
+
 ---
 type: Rezept
 tag: Rezept, vegan
