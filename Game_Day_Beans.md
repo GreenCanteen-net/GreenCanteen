@@ -1,3 +1,5 @@
+# Game Day Beans
+
 ---
 Type: Rezept
 Tag: Rezept
