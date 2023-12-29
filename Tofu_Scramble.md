@@ -1,3 +1,5 @@
+# Tofu Scramble
+
 ---
 Type: Rezept
 Tag: Rezept
