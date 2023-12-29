@@ -1,3 +1,5 @@
+# Käferbohnensalat
+
 ---
 Type: Rezept
 Tag: Rezept
