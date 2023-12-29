@@ -1,3 +1,5 @@
+# Kartoffelstock
+
 ---
 Type: Rezept
 Tag: Rezept, vegan
@@ -8,7 +10,7 @@ Quelle: Martin
 
 #### Zutaten
 - [ ] 1 kg mehlig kochende Kartoffeln in Salzwasser
-- [ ] 250 g Kokosjoghurt
+- [ ] 250 g Kokosjoghurt od. New Roots Creme Fraiche
 - [ ] Salz, Muskat
 
 
