@@ -1,3 +1,5 @@
+# Grünes Spinatcurry mit Minze
+
 ---
 Type: Rezept
 Tag: Rezept
