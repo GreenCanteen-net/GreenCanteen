@@ -1,3 +1,5 @@
+# Mighty Marraine Curry
+
 ---
 Type: Rezept
 Tag: Rezept
@@ -25,3 +27,8 @@ Quelle: Marlise
 - [ ] Rote Linsen
 - [ ] Kokosmilch
 
+
+--
+Variante: 
+- statt Peperoni ein Kohlrabi (in dünne Scheiben geschnitten)
+- einen Blumenkohl klein schneiden und verkochen
