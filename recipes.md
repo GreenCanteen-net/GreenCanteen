@@ -68,7 +68,7 @@ plant-based delights 😋
 
 #### misc
 - [Blumenkohl Bechamel](Blumenkohl_bechamel.md) 🌿 
-- [Blumenkohl Wings](Blumenkohl_wings.md) 🌿
+- [Blumenkohl Wings](Blumenkohl_Wings.md) 🌿
 - [Bowls](Bowls.md) ⏱️ (🤰.md) 🌿
 - [Busy Beluga Bowl](Busy_Beluga_bowls.md)
 - [Gallo Pinto](Gallo_Pinto.md) 🌿
