@@ -40,7 +40,7 @@
 - [Mousse au Chocolat](Mousse_au_Chocolat.md) 🌿
 
 #### and more
-- ... and many more mouth-watering [recipes](recipes.md)
+- ... and many more mouth-watering [recipes](recipes.md) and [menu plans](Menueplan.md)
 
 ---
 🌿 plant-based
