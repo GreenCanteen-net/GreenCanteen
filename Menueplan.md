@@ -11,8 +11,15 @@
 | Mittwoch   | [Tortellini, Planted mit Broccolix](Tortellini_Planted_Brokkolix.md)  | [Linsen mit Wienerli](Linsen_mit_Wienerli.md)        |
 | Donnerstag | [Mighty Marraine Curry](Mighty_Marraine_Curry.md)                  | [Busy Beluga Bowl](Busy_Beluga_Bowl.md)        |
 | Freitag    | [Tortellini, Planted mit Broccolix](Tortellini_Planted_Brokkolix.md)   | [Linsen mit Wienerli](Linsen_mit_Wienerli.md)      |
+|------ | ---- |----|
+|Vorbereiten |    | Samstag: Kichererbsen einweichen |
+
+---
+
+#### Einkaufsliste Woche 1
 
 
+---
 
-*Einkaufsliste*
+#### Einkaufsliste Woche 2
 
