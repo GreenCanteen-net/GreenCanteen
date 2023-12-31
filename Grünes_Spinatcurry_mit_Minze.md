@@ -23,7 +23,7 @@ für 2-4 Personen (je nach portion Reis).
 - [ ] 250 g Belugalinsen
 - [ ] 300g Blattspinat, gewaschen 
 - [ ] 4 Frühlingszwiebeln, in Ringe geschnitten
-- [ ] 1 Bund Minze 
+- [ ] 1 Bund Minze, fein geschnitten
 
 
 #### Zubereitung
