@@ -4,7 +4,7 @@
 
 | Wochentag  | Woche 1 | Woche 2 |
 | ---------- | ------- | ------- |
-| Samstag    | [Grünes Spinatcurry](Grünes_Spinatcurry_mit_Minze.md)              | [Palak_Dal](Palak_Dal.md)        |
+| Samstag    | [Grünes Spinatcurry](Grünes_Spinatcurry_mit_Minze.md)              | [Palak Dal](Palak_Dal.md)        |
 | Sonntag    | [Spaghetti Bolognese](Sonnenblumen_Bolognese.md)                   | [Hamshuka](Hamshuka) mit [Cicorino Rosso-rangsche](Cicorino_Rosso-rangsche.md)  |
 | Montag     | [Mighty Marraine Curry](Mighty_Marraine_Curry.md)                  | [Hamshuka](Hamshuka) mit [Cicorino Rosso-rangsche](Cicorino_Rosso-rangsche.md)         |
 | Dienstag   | [Spaghetti Bolognese](Sonnenblumen_Bolognese.md)                   | [Busy Beluga Bowl](Busy_Beluga_Bowl.md)        |
