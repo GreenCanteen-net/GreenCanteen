@@ -28,3 +28,6 @@ Teig:
 
 
 #### Zubereitung
+
+
+teig: auf stufe 5 teigmaschine
