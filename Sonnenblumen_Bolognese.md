@@ -17,7 +17,7 @@ Quelle: Lotti
 - [ ]etwas Sojasauce
 
 dazu
-- [ ] 270g Spaghetti
+- [ ] 270g Spaghetti pro 2 Portionen
 
 
 
