@@ -14,7 +14,7 @@ Quelle: Lotti,
 - [ ] etwas Tomatenmark
 - [ ] ein paar Rosmarinzweige
 - [ ] Gewürze: Paprika, Oregano, Thymian, Bouillon
-- [ ]etwas Sojasauce
+- [ ] etwas Sojasauce
 
 dazu
 - [ ] 270g Spaghetti pro 2 Portionen
