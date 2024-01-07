@@ -26,7 +26,7 @@ dazu
 - [ ] Sojahack in brühend heissem Bouillon 10 min einweichen
 - [ ] Zwiebeln, Rüebli, Tomatenmark, Rosmarin im Olivenöl andünsten
 - [ ] Sojahack und Knoblauchzehen, Peperoni hinzugeben
-- [ ] 5 min andünsten, Gewürzr hinzugeben
+- [ ] 5 min andünsten, Gewürze hinzugeben
 - [ ] Pelati hinzufügen und Wasser nach Bedarf
 - [ ] 40 min köcheln lassen
 - [ ] mit Spaghetti serviern
