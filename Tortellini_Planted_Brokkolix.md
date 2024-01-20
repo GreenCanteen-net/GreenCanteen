@@ -13,6 +13,7 @@ für 4 Personen
 - [ ] 2x 250g Champignons, klein geschnitten
 - [ ] 4 Zwiebeln, geschnitten
 - [ ] 2 Brokkoli, in Röschen geschnitten
+- [ ] 2x Planted
 - [ ] Etwas Sojasauce
 - [ ] 2x Creme Fraiche (New Roots)
 
