@@ -27,7 +27,7 @@
 #### cold hits
 - [Hummus](Hummus.md) 🌿
 - [Hamshuka](Hamshuka.md) 🌿
-- [Blumenkohl Wings](Blumenkohl_wings.md) 🌿
+- [Blumenkohl Wings](Blumenkohl_Wings.md) 🌿
 
 #### meal prep
 - [Great Greek Gigantes](Greak_greek_gigantes.md) 🍲 🌿
