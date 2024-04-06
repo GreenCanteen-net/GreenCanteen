@@ -6,7 +6,7 @@ plant-based delights 😋
 - [Shibuya Salad](Shibuya_Salad.md) 🤰 🌿 / (🥛)
 - [Black Bean Bug Salad](Black_Bean_Bug_Salad.md) 🍲 🤰 🌿
 - [Fisolen Salat](Fisolen_Salat.md) 🤰 🌿
-- [Griechischer Salat+](Griechischer_Salat_Plus.md) ⏱️ 🥛
+- [Griechischer Salat+](Griechischer_Salat_plus.md) ⏱️ 🥛
 - [ApKoRa Winter Salad](ApKora_Winter_Salad.md) ⏱️ 🤰 🌿
 - [Classic Carrot Salad](Classic_Carrot_Salad.md) ⏱️ 🤰 🌿
 - [3-2-1 Salatsauce](3-2-1_Salatsauce.md) ⏱️ 🌿
