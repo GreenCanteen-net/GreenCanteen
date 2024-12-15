@@ -73,6 +73,7 @@ plant-based delights 😋
 - [Busy Beluga Bowl](Busy_Beluga_bowls.md)
 - [Gallo Pinto](Gallo_Pinto.md) 🌿
 - [Spinatmuffins](Spinatmuffins.md) (🥛.md) / 🌿
+- [Gerstensuppe Grischun](Gerstensuppe_Grischun.md) 🌿 
 - [Tofu Scramble](Tofu_Scramble.md) 🤰 🌿
 - [Linsen und Auberginen Eintopf](Linsen_und_Auberginen_Eintopf.md)* 🤰 🌿
 - Lasagne mit Spinat & Ricotta 🌿
